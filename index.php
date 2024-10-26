@@ -153,7 +153,7 @@
 
         </div>
 
-        <div id='nhancuoi' class="flex flex-col mb-10">
+        <div id='nhan' class="flex flex-col mb-10">
           <span class="text-xl font-semibold underline">Nhẫn cưới</span>
 
           <div class="flex flex-row mx-auto gap-16 my-5">
@@ -195,11 +195,11 @@
 
           </div>
 
-          <a href="/search.php?c=nhancuoi" class="mx-auto border-2 border-[#01a14b] rounded-md px-4 py-2 mt-4 hover:bg-[#01a14b] hover:text-white">Xem thêm</a>
+          <a href="/search.php?c=nhan" class="mx-auto border-2 border-[#01a14b] rounded-md px-4 py-2 mt-4 hover:bg-[#01a14b] hover:text-white">Xem thêm</a>
 
         </div>
 
-        <div id='nhancuoi' class="flex flex-col mb-10">
+        <div id='vong' class="flex flex-col mb-10">
           <span class="text-xl font-semibold underline">Vòng tay</span>
 
           <div class="flex flex-row mx-auto gap-16 my-5">
@@ -240,7 +240,7 @@
             </div>
           </div>
 
-          <a href="/search.php?c=vongtay" class="mx-auto border-2 border-[#01a14b] rounded-md px-4 py-2 mt-4 hover:bg-[#01a14b] hover:text-white">Xem thêm</a>
+          <a href="/search.php?c=vong" class="mx-auto border-2 border-[#01a14b] rounded-md px-4 py-2 mt-4 hover:bg-[#01a14b] hover:text-white">Xem thêm</a>
 
         </div>
 

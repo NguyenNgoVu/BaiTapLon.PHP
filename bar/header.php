@@ -65,15 +65,15 @@
     <div class="flex flex-col mt-4 gap-1 ml-2">
       <span class="text-2xl font-semibold">Trang sức</span>
       <a href="/search.php?c=bongtai" class="flex flex-row"><span class="ml-4 flex cursor-pointer hover:underline">Bông Tai</span><span class="ml-2 text-xs justify-self-center items-center my-auto">⮞</span></a>
-      <a href="/search.php?c=nhancuoi" class="flex flex-row"><span class="ml-4 flex cursor-pointer hover:underline">Nhẫn cưới</span><span class="ml-2 text-xs justify-self-center items-center my-auto">⮞</span></a>
-      <a href="/search.php?c=vongtay" class="flex flex-row"><span class="ml-4 flex cursor-pointer hover:underline">Vòng tay</span><span class="ml-2 text-xs justify-self-center items-center my-auto">⮞</span></a>
+      <a href="/search.php?c=nhan" class="flex flex-row"><span class="ml-4 flex cursor-pointer hover:underline">Nhẫn cưới</span><span class="ml-2 text-xs justify-self-center items-center my-auto">⮞</span></a>
+      <a href="/search.php?c=vong" class="flex flex-row"><span class="ml-4 flex cursor-pointer hover:underline">Vòng tay</span><span class="ml-2 text-xs justify-self-center items-center my-auto">⮞</span></a>
     </div>
 
     <div class="flex flex-col mt-4 gap-1 ml-2">
       <span class="text-2xl font-semibold">Đá quý</span>
-      <div class="flex flex-row"><span class="ml-4 flex cursor-pointer hover:underline">Vàng 24K</span><span class="ml-2 text-xs justify-self-center items-center my-auto">⮞</span></div>
-      <div class="flex flex-row"><span class="ml-4 flex cursor-pointer hover:underline">Kim cương</span><span class="ml-2 text-xs justify-self-center items-center my-auto">⮞</span></div>
-      <div class="flex flex-row"><span class="ml-4 flex cursor-pointer hover:underline">Ngọc trai</span><span class="ml-2 text-xs justify-self-center items-center my-auto">⮞</span></div>
+      <a href="/search.php?c=vang" class="flex flex-row"><span class="ml-4 flex cursor-pointer hover:underline">Vàng 24K</span><span class="ml-2 text-xs justify-self-center items-center my-auto">⮞</span></a>
+      <a href="/search.php?c=kimcuong" class="flex flex-row"><span class="ml-4 flex cursor-pointer hover:underline">Kim cương</span><span class="ml-2 text-xs justify-self-center items-center my-auto">⮞</span></a>
+      <a href="/search.php?c=ngoctrai" class="flex flex-row"><span class="ml-4 flex cursor-pointer hover:underline">Ngọc trai</span><span class="ml-2 text-xs justify-self-center items-center my-auto">⮞</span></a>
     </div>
 
     <div class="flex flex-row mt-4 gap-1 ml-2 bottom-4 absolute right-4">
