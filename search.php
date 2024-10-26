@@ -65,7 +65,7 @@
       <span class='font-semibold text-lg mt-2 ml-72'>Hiển thị kết quả tìm kiếm cho: <span class='font-normal'><?PHP echo @($query['q']) ?></span></span>
 
       <?PHP
-      if (empty($query) || empty(@$query['q'])) {
+      if (empty($query) || (empty(@$query['q']) && empty(@$query['c']))) {
         echo "<span class='text-center font-semibold text-2xl'>Vui lòng nhập sản phẩm cần tìm!</span>";
       } else {
         echo "<div class='grid grid-cols-4 w-2/3 mx-auto mt-5 mb-20 gap-y-14'>";
